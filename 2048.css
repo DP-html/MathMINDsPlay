@@ -1,0 +1,107 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+h5 {
+    text-align: right;
+}
+
+hr {
+    width: 500px;
+}
+
+#board {
+    width: 400px;
+    height: 400px;
+
+    background-color: rgb(147, 236, 159);
+    border: 6px solid;
+    border-color:rgb(0, 255, 157);
+
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.tile {
+    width: 90px;
+    height: 90px;
+    border: 5px solid rgb(0, 255, 157);
+
+    font-size: 40px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/* colored tiles */
+
+.x2 {
+    background-color: rgb(13, 155, 72);
+    color: white;
+}
+
+.x4 {
+    background-color:  rgb(97, 243, 0);
+    color: white;
+}
+
+.x8 {
+    background-color: #f87204;
+    color: white;
+}
+
+.x16{
+    background-color: #964125;
+    color: white;
+}
+
+.x32{
+    background-color: #ff00b3d8;
+    color: white;
+}
+
+.x64{
+    background-color: #ff00ddb2;
+    color: white;
+}
+
+.x128{
+    background-color: #ffc002;
+    color: white;
+}
+
+.x256{
+    background-color: #00f0f8;
+    color: white;
+}
+
+.x512{
+    background-color: #1100ff;
+    color: white;
+}
+
+.x1024{
+    background-color: #da4444;
+    color: white;
+}
+
+.x2048{
+    background-color: #ff0000;
+    color: white;
+}
+
+.x4096 {
+    background-color: #0a6d3c;
+    color: white;
+}
+
+.x8192 {
+    background-color: #0a5c0a;
+    color: white;
+}
