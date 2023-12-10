@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Nova+Square&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+ 
+ body {
+     background-image: url("wallpaper.png") ;
+     background-size: cover;
+     text-align: center;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+
+ h1 {
+    color: rgb(40, 206, 164);
+    font-size: xxx-large;
+    font-family: 'Nova Square', sans-serif;
+    text-shadow: 10px 10px 25px white;
+}
+
+
+ a {
+     color: blue;
+     font-size: xx-large;
+     font-weight: bolder;
+ }
+
+ .z {
+     display: inline;
+     padding: 20px;
+     text-align: left;
+     justify-content: left;
+     background-color: rgb(243, 234, 154);
+ }
+
+ .y {
+     display: inline;
+     padding: 20px;
+     text-align: center;
+     justify-content: center;
+     background-color: rgb(243, 234, 154);
+ }
+
+ .x{
+     display: inline;
+     padding: 20px;
+     text-align: right;
+     justify-content: right;
+     background-color: rgb(243, 234, 154);
+     
+ }
+
+ .extra1 {
+     display: inline;
+     padding: 5px;
+     color: white ;
+     font-size: xx-large;
+ }
+
+ .extra2 {
+    display: inline;
+    padding: 5px;
+    color: white;
+    font-size: xx-large;
+}
+
+.class {
+    color: gold;
+    font-size: xx-large;
+}
+
+
+.school {
+     color: lavender;
+     font-weight: bolder;
+     font-size: x-large; 
+     font-family: sans-serif;
+ }
+
+ h2 {
+    color: gold;
+    font-size: xx-large;
+ }
+
+h6 {
+    color: lightcyan;
+    font-size: x-large;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: lighter;
+}
+
+.madeby {
+        background: radial-gradient(rgb(245, 229, 7), rgb(212, 212, 185));
+        color: rgb(0, 0, 0);
+        font-size: x-large;
+        font-weight: bold;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        position: relative;
+}
