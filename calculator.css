@@ -67,3 +67,49 @@ button{
     background-color: darkgrey;
     color: black;
 }
+
+.abcd {
+    display: inline;
+    font-size: large;
+    padding: 5px;
+    background-color: coral;
+    color: black;
+    border: coral solid;
+    border-radius: 20px;
+}
+
+.sudoku {
+    display: inline;
+    font-size: large;
+    padding: 5px;
+    background-color: coral;
+    color: black;
+    border: coral solid;
+    border-radius: 20px;
+}
+
+.home {
+    display: inline;
+    font-size: large;
+    padding: 5px;
+    background-color: coral;
+    color: black;
+    border: coral solid;
+    border-radius: 20px;
+}
+
+.extra1 {
+    display: inline;
+    padding: 2px;
+    color: white ;
+    font-size: x-large;
+
+}
+
+.extra2 {
+   display: inline;
+   padding: 2px;
+   color: white;
+   font-size: x-large;
+
+}
