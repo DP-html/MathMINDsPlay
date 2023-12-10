@@ -12,6 +12,27 @@
      font-family: Georgia, 'Times New Roman', Times, serif;
  }
 
+ .z {
+     display: inline;
+     padding: 20px;
+     text-align: left;
+     justify-content: left;
+ }
+
+ .y {
+     display: inline;
+     padding: 20px;
+     text-align: center;
+     justify-content: center;
+ }
+
+ .x{
+     display: inline;
+     padding: 20px;
+     text-align: right;
+     justify-content: right;
+ }
+
  h1 {
      color: rgb(24, 165, 66);
      font-size: xxx-large;
