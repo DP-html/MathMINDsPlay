@@ -2,7 +2,7 @@ body {
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
 
-    background-color: black;
+    background: repeating-radial-gradient(black, white);
     color: white;
 }
 
@@ -26,7 +26,7 @@ hr {
 .tile {
     width: 48px; 
     height: 48px;
-    border: 1px solid lightgray;
+    border: 1px solid rgb(173, 172, 172);
 
     /* Text */
     font-size: 20px;
@@ -64,7 +64,7 @@ hr {
 }
 
 .tile-start {
-    background-color: gray;
+    background-color: rgb(126, 126, 126);
 }
 
 .horizontal-line {
